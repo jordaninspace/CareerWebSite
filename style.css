@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: rgb(218, 219, 219);
+}
+
+p {
+    color: rgb(218, 219, 219);
+}
+
+nav {flex: 0 0 20%;
+  background-color: rgba(67, 175, 247, 0.356);
+  border-radius: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+nav a:link {
+  border-radius: 4px 4px 0px 0px;
+  text-decoration: none;
+  color: rgb(218, 219, 219);
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+nav a:visited {
+  background-color: rgb(109, 255, 158);
+  color: rgb(0, 0, 0);
+}
+
+nav a:active {
+  background-color: rgb(150, 150, 150);
+  color: rgb(0, 0, 0);
+}
+
+nav a:hover {
+  background-color: rgb(139, 139, 139);
+  color: rgb(0, 0, 0);
+}
