@@ -4,9 +4,15 @@ body {
 
 h1 {
     color: rgb(218, 219, 219);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 p {
+    color: rgb(218, 219, 219);
+}
+
+ul
+li {
     color: rgb(218, 219, 219);
 }
 
@@ -38,4 +44,12 @@ nav a:active {
 nav a:hover {
   background-color: rgb(139, 139, 139);
   color: rgb(0, 0, 0);
+}
+
+h2 {
+  color: rgb(218, 219, 219);
+}
+
+summary {
+  color: rgb(218, 219, 219);
 }
