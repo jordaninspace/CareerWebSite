@@ -38,12 +38,12 @@ nav a:visited {
 
 nav a:active {
   background-color: rgb(150, 150, 150);
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 nav a:hover {
   background-color: rgb(139, 139, 139);
-  color: rgb(0, 0, 0);
+  color: rgb(255, 252, 252);
 }
 
 h2 {
